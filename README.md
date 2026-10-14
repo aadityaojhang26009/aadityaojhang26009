@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p data-importer="text" align="left">I'm Aaditya Ojha from Delhi <br><br>- 🔭 I’m a Student<br>- 📚 Currently pursuing my BCa degree <br>- ⚡ In my free time I explore about new language which i hadn't studied in my college or the language which is not started yet </p>
 
 ###
 
